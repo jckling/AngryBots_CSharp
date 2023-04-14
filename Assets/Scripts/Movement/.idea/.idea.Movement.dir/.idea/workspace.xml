@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48b5329f-af09-4382-ac31-1f69ebaf4571" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Editor/RenderCubemapWizard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Editor/RenderCubemapWizard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Editor/SkyBoxGenerator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Editor/SkyBoxGenerator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Editor/TransformGroup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Editor/TransformGroup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Editor/deactivateMeshRenderers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Editor/deactivateMeshRenderers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Explosions/Scripts/EffectSequencer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Explosions/Scripts/EffectSequencer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Explosions/Scripts/ElectricShockwave.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Explosions/Scripts/ElectricShockwave.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Explosions/Scripts/ExplosionControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Explosions/Scripts/ExplosionControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Explosions/Scripts/ExplosionControl.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Explosions/Scripts/ExplosionControl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Explosions/Scripts/ExplosionLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Explosions/Scripts/ExplosionLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Explosions/Scripts/ExplosionTestCage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Explosions/Scripts/ExplosionTestCage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Materials/ElectricArcMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Materials/ElectricArcMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Materials/GlowPlane.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Materials/GlowPlane.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Materials/Reflection.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Materials/Reflection.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Materials/environment_floorTiles_A_Wet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Materials/environment_floorTiles_A_Wet.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Materials/healthbar_player.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Materials/healthbar_player.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Objects/Enemies/mech_bot.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Objects/Enemies/mech_bot.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Objects/Enemies/mine_bot.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Objects/Enemies/mine_bot.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Enemies/EnemyAreas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Enemies/EnemyAreas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Enemies/EnemyMech.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Enemies/EnemyMech.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Enemies/EnemyMechWithNoise.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Enemies/EnemyMechWithNoise.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Enemies/EnemySpider.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Enemies/EnemySpider.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Enemies/KamikazeBuzzer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Enemies/KamikazeBuzzer.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Modules/Door/ExteriorDoorSliding.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Modules/Door/ExteriorDoorSliding.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Modules/Door/InteriorSlidingDoor.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Modules/Door/InteriorSlidingDoor.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Modules/Terminal.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Modules/Terminal.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Props/Displays/BuzzerTable.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Props/Displays/BuzzerTable.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prefabs/Props/fanA.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prefabs/Props/fanA.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/AngryBots.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/AngryBots.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/AI.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/AI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/AI.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/AI.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/AttackMoveController.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/AttackMoveController.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/BuzzerKamikazeControllerAndAi.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/BuzzerKamikazeControllerAndAi.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/DisableOutsideRadius.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/DisableOutsideRadius.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/DisableOutsideRadius.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/DisableOutsideRadius.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/MechAttackMoveController.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/MechAttackMoveController.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/PatrolMoveController.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/PatrolMoveController.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/PatrolPoint.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/PatrolPoint.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/PatrolRoute.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/PatrolRoute.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/SpiderAttackMoveController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/SpiderAttackMoveController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/SpiderAttackMoveController.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/SpiderAttackMoveController.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/SpiderReturnMoveController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/SpiderReturnMoveController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/SpiderReturnMoveController.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/SpiderReturnMoveController.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/SwarmAI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/SwarmAI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/SwarmAI.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/SwarmAI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI/SwarmAI.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/SwarmAI.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animation/MechAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Animation/MechAnimation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animation/MechAnimationTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Animation/MechAnimationTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animation/SpiderAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Animation/SpiderAnimation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animation/SpiderAnimationTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Animation/SpiderAnimationTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor/ReplacePrefabInstances.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Editor/ReplacePrefabInstances.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Editor/SampleAnimationOnSelected.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Editor/SampleAnimationOnSelected.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape/DelayedDeactivation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape/DelayedDeactivation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape/Eject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape/Eject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape/TheGreatActivator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Escape/TheGreatActivator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/BrokenScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/BrokenScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/ColoredNoise.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/ColoredNoise.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/GlowChange.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/GlowChange.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/GlowPlane.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/GlowPlane.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/GlowPlane.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/GlowPlane.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/GlowPlaneAngleFade.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/GlowPlaneAngleFade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/HeightDepthOfField.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/HeightDepthOfField.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/LaserScope.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/LaserScope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/MoodBox.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/MoodBox.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/MoodBoxData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/MoodBoxData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/MoodBoxManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/MoodBoxManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/ReflectionFx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/ReflectionFx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/RenderFogPlane.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/RenderFogPlane.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/SelfIlluminationBlink.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/SelfIlluminationBlink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fx/ShaderDatabase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Fx/ShaderDatabase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Managers/Spawner.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Managers/Spawner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Managers/TextAdventureManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Managers/TextAdventureManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/DemoControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/DemoControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/DemoControl.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/DemoControl.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/EndOfLevel.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/EndOfLevel.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/GameOverGUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/GameOverGUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/GameOverGUI.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/GameOverGUI.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/InitLevelManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/InitLevelManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/PlaySoundOnTrigger.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/PlaySoundOnTrigger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/PlaySoundOnTrigger.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/PlaySoundOnTrigger.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/ReBirth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/ReBirth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/ReBirth.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/ReBirth.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/ShowFps.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/ShowFps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/ShowFps.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/ShowFps.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/SimpleRotate.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/SimpleRotate.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Misc/StaticFollower.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Misc/StaticFollower.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/EmitParticles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/EmitParticles.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/EmitParticles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/EmitParticles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/EnemyArea.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/EnemyArea.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/EnemyArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/EnemyArea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/LockedThing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/LockedThing.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/PlayAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/PlayAnimation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/PlayAnimationAndBack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/PlayAnimationAndBack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/PlayAnimationAndBack.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/PlayAnimationAndBack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/PlaySound.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/PlaySound.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/PlaySoundAndBack.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/PlaySoundAndBack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/ShiftUV.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/ShiftUV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/SpawnMultipleObjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/SpawnMultipleObjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/SpawnObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/SpawnObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modules/TerminalHack.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Modules/TerminalHack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FreeMovementMotor.js" beforeDir="false" afterPath="$PROJECT_DIR$/FreeMovementMotor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoverMovementMotor.js" beforeDir="false" afterPath="$PROJECT_DIR$/HoverMovementMotor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Joystick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Joystick.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Joystick.js" beforeDir="false" afterPath="$PROJECT_DIR$/Joystick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KamikazeMovementMotor.js" beforeDir="false" afterPath="$PROJECT_DIR$/KamikazeMovementMotor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MechMovementMotor.js" beforeDir="false" afterPath="$PROJECT_DIR$/MechMovementMotor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayerMoveController.js" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerMoveController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weapons/AutoFire.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Weapons/AutoFire.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weapons/Health.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Weapons/Health.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weapons/Health.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Weapons/Health.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weapons/SeekerBullet.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Weapons/SeekerBullet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weapons/SlowBulletFire.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Weapons/SlowBulletFire.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Weapons/SlowBulletFireWithNoise.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Weapons/SlowBulletFireWithNoise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Joystick.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2OMSFYeFNr2cJX0Ut3sspxX4Zhi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48b5329f-af09-4382-ac31-1f69ebaf4571" name="Changes" comment="" />
+      <created>1681368858323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681368858323</updated>
+      <workItem from="1681368860409" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
