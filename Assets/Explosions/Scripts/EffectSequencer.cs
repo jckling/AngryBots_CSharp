@@ -27,19 +27,26 @@ public class EffectSequencer : MonoBehaviour {
 	
 	    foreach(var go in ambientEmitters) {
 		    StartCoroutine( InstantiateDelayed(go));
-		    // if (go.gameObject.GetComponent<ParticleEmitter>())
-			   //  maxTime = Mathf.Max (maxTime, go.delay + go.gameObject.GetComponent<ParticleEmitter>().maxEnergy);
-	    }
+            // if (go.gameObject.GetComponent<ParticleEmitter>())
+            //  maxTime = Mathf.Max (maxTime, go.delay + go.gameObject.GetComponent<ParticleEmitter>().maxEnergy);
+
+          /*  if (go.gameObject.TryGetComponent(out ParticleSystem ps))
+            {
+                var emitter = ps.emission;
+                emitter.enabled = true;
+                maxTime = Mathf.Max(maxTime, go.delay + ps.main.startLifetime.constantMax);
+            }*/
+        }
 	    foreach(var go in explosionEmitters) {
-            StartCoroutine(InstantiateDelayed(go));	
-		    // if (go.gameObject.GetComponent<ParticleEmitter>())
-			   //  maxTime = Mathf.Max (maxTime, go.delay + go.gameObject.GetComponent<ParticleEmitter>().maxEnergy);
-	    }
+            StartCoroutine(InstantiateDelayed(go));
+            // if (go.gameObject.GetComponent<ParticleEmitter>())
+            //  maxTime = Mathf.Max (maxTime, go.delay + go.gameObject.GetComponent<ParticleEmitter>().maxEnergy);
+        }
 	    foreach(var go in smokeEmitters) {
             StartCoroutine(InstantiateDelayed(go));
-		    // if (go.gameObject.GetComponent<ParticleEmitter>())
-			   //  maxTime = Mathf.Max (maxTime, go.delay + go.gameObject.GetComponent<ParticleEmitter>().maxEnergy);
-	    }
+            // if (go.gameObject.GetComponent<ParticleEmitter>())
+            //  maxTime = Mathf.Max (maxTime, go.delay + go.gameObject.GetComponent<ParticleEmitter>().maxEnergy);
+        }
 	
 	    if (GetComponent<AudioSource>() && GetComponent<AudioSource>().clip)
 		    maxTime = Mathf.Max (maxTime, GetComponent<AudioSource>().clip.length);
@@ -48,9 +55,9 @@ public class EffectSequencer : MonoBehaviour {
 	
 	    foreach(var go in miscSpecialEffects) {
             StartCoroutine(InstantiateDelayed(go));
-		    // if (go.gameObject.GetComponent<ParticleEmitter>())
-			   //  maxTime = Mathf.Max (maxTime, go.delay + go.gameObject.GetComponent<ParticleEmitter>().maxEnergy);
-	    }
+            // if (go.gameObject.GetComponent<ParticleEmitter>())
+            //  maxTime = Mathf.Max (maxTime, go.delay + go.gameObject.GetComponent<ParticleEmitter>().maxEnergy);
+        }
 	
 	    Destroy (gameObject, maxTime + 0.5f);
     }

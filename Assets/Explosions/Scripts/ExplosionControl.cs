@@ -14,7 +14,8 @@ public class ExplosionControl : MonoBehaviour {
 	    for (int i = 0; i < lineRenderer.Length; i++) {
 		    float lineWidth = Random.Range(0.25f,0.5f);
 
-		    lineRenderer[i].SetWidth (lineWidth, lineWidth);
+			lineRenderer[i].startWidth = lineWidth;
+            lineRenderer[i].endWidth = lineWidth;
 		    lineRenderer[i].SetPosition (0, Vector3.zero);
 
 		    Vector3 dir = Random.onUnitSphere;
