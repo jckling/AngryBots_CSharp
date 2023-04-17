@@ -17,7 +17,7 @@ public class Health : MonoBehaviour
     public GameObject scorchMarkPrefab = null;
     private GameObject scorchMark = null;
 
-    public SignalSender damageSignals = new SignalSender(); // SignalSender,位于Modules（模块，组件）文件夹下的脚本
+    public SignalSender damageSignals = new SignalSender();
     public SignalSender dieSignals = new SignalSender();
 
     private float lastDamageTime = 0;
@@ -35,7 +35,7 @@ public class Health : MonoBehaviour
             if (damageEffectTransform == null)
                 damageEffectTransform = transform;
             GameObject effect =
-                Spawner.Spawn(damagePrefab, Vector3.zero, Quaternion.identity); // Spawner ：产卵 ,位于Managers文件夹下的脚本
+                Spawner.Spawn(damagePrefab, Vector3.zero, Quaternion.identity);
             effect.transform.parent = damageEffectTransform;
             effect.transform.localPosition = Vector3.zero;
             // damageEffect = effect.GetComponent<ParticleEmitter>();
@@ -53,7 +53,7 @@ public class Health : MonoBehaviour
     }
 
     /// <summary>
-    /// 被攻击,不是u3d api函数
+    /// 被攻击
     /// </summary>       
     public void OnDamage(float amount, Vector3 fromDirection)
     {

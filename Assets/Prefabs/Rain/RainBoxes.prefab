@@ -5385,6 +5385,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400108}
+  - component: {fileID: 2146159469811183809}
   m_Layer: 1
   m_Name: RainBoxes
   m_TagString: RainBoxManager
@@ -5461,5 +5462,29 @@ Transform:
   - {fileID: 400002}
   - {fileID: 400000}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2146159469811183809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afa7fdb44d754ddc81038bb0852ff249, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minYPosition: 1
+  numberOfParticles: 500
+  areaSize: 13
+  areaHeight: 5
+  fallingSpeed: 22
+  particleSize: 0.2
+  flakeRandom: 0.1
+  preGennedMeshes:
+  - {fileID: 4300000, guid: 204f6d6b059e1411086d234587958404, type: 2}
+  - {fileID: 4300000, guid: b240c1ee1930342c7bbb16cce0ca106c, type: 2}
+  - {fileID: 4300000, guid: fdd264c4ec0cd40cc831a2f31c05d0e5, type: 2}
+  generateNewAssetsOnStart: 0

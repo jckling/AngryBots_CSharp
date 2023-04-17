@@ -15,7 +15,8 @@ public class InitLevelManager : MonoBehaviour
         background.Apply();
 
         DontDestroyOnLoad(gameObject);
-        SceneManager.LoadScene(Application.loadedLevel + 1);
+        // Application.LoadLevel(Application.loadedLevel + 1);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
     void OnEnable()
