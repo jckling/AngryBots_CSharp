@@ -30,7 +30,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _InvFade: 1
-    - _SelfIllumination: 1.8719668
+    - _SelfIllumination: 1.1160254
     m_Colors:
     - _Color: {r: 0, g: 1, b: 0.16083908, a: 1}
     - _TintColor: {r: 1, g: 1, b: 1, a: 0.5019608}
